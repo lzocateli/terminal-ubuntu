@@ -16,6 +16,8 @@ chsh -s $(which zsh)
 #### 2. Feche seu terminal e reabra novamente ####  
 **Ao usar o zsh pela primeira vez, configure o arquivo ~/.zshrc**
 
+- Use a opção 1
+
 ![ZSH Primeiro acesso](https://github.com/lzocateli00/terminal-ubuntu/blob/1affdaa1cc0813380c7865aea4a9d443af73cc02/images/zsh-primeiro-acesso.jpg)
 
 - Faça as configurações recomendadas:
