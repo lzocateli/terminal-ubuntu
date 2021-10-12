@@ -72,7 +72,9 @@ eval "$(oh-my-posh --init --shell zsh --config ~/slimfat.omp.json)"
 ```bash
 source ~/.zshrc
 ```
-#### 6. Configure a fonte para o Windows Terminal (PowerShell) ####  
+#### 6. Configure a fonte para o Windows Terminal ####  
+
+![Baixar font](https://ohmyposh.dev/docs/fonts)
 
 ![Windows Start](https://github.com/lzocateli00/terminal-windows/blob/37631020d9abeac1802e29231de79cd14d17f561/images/WindowsTerminal.png)
 
