@@ -74,7 +74,7 @@ source ~/.zshrc
 ```
 #### 6. Configure a fonte para o Windows Terminal ####  
 
-![Baixar font](https://ohmyposh.dev/docs/fonts)
+[Baixar font click aqui](https://ohmyposh.dev/docs/fonts)
 
 ![Windows Start](https://github.com/lzocateli00/terminal-windows/blob/37631020d9abeac1802e29231de79cd14d17f561/images/WindowsTerminal.png)
 
