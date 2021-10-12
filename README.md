@@ -16,7 +16,15 @@ chsh -s $(which zsh)
 #### 2. Feche seu terminal e reabra novamente ####  
 **Ao usar o zsh pela primeira vez, configure o arquivo ~/.zshrc**
 
-![ZSH Primeiro acesso](https://link)
+![ZSH Primeiro acesso](https://github.com/lzocateli00/terminal-ubuntu/blob/1affdaa1cc0813380c7865aea4a9d443af73cc02/images/zsh-primeiro-acesso.jpg)
+
+- Faça as configurações recomendadas:
+
+![Configurações recomendadas](https://github.com/lzocateli00/terminal-ubuntu/blob/1affdaa1cc0813380c7865aea4a9d443af73cc02/images/Zsh-Main-menu-recommended.png)
+
+![Salve as configurações feitas](https://github.com/lzocateli00/terminal-ubuntu/blob/1affdaa1cc0813380c7865aea4a9d443af73cc02/images/Zsh-Main-menu-recommended-save.png)
+
+![Configure ou copie o conteudo do seu .bashrc para .zshrc](https://github.com/lzocateli00/terminal-ubuntu/blob/1affdaa1cc0813380c7865aea4a9d443af73cc02/images/Zsh-new-users.png)
 
 - Caso necessite voltar ao menu do zsh digite:
 ```bash
@@ -68,12 +76,12 @@ source ~/.zshrc
 
 ![Windows Terminal-Settings](https://github.com/lzocateli00/terminal-windows/blob/37631020d9abeac1802e29231de79cd14d17f561/images/WindowsTerminal-Settings.png)
 
-![PowerShell-Font](https://github.com/lzocateli00/terminal-windows/blob/37631020d9abeac1802e29231de79cd14d17f561/images/PowerShell-Font.png)
+![Terminal-Font](https://github.com/lzocateli00/terminal-ubuntu/blob/5319c4f5e91429f5f37eb44687e88cd4ebc503bb/images/Terminal-font.jpg)
 
 - Feche o Windows Terminal
 - Abra o Windows Terminal, sua linha de comando, em uma pasta de projeto com git, com dotnet, deve ter essa aparencia:
 
-![Win Terminal](https://github.com/lzocateli00/terminal-windows/blob/019b2b87148053b683626f3e267a132b59d28365/images/WindowsTerminal-Final.png)
+![Linux Terminal](https://github.com/lzocateli00/terminal-ubuntu/blob/abd79735517366e4e06b1cae6487d54182aa8cf1/images/Terminal-final.jpg)
 
 - Se quiser personalizar, abra o arquivo do tema que fica na pasta $HOME 
  
